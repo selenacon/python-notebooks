@@ -49,3 +49,6 @@ target/
 
 # Notebook Checkpoints
 .ipynb_checkpoints/
+
+# Virtual Enviroments
+.venv/
